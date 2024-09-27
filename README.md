@@ -46,19 +46,28 @@
 ## ตัวอย่างหน้าจอ (Screenshots)
 
 | หน้าสมัครสมาชิก          |
-| ![image](https://github.com/user-attachments/assets/eeb4b560-6e19-4f98-a066-38a7606b0282) 
+
+
+ ![image](https://github.com/user-attachments/assets/eeb4b560-6e19-4f98-a066-38a7606b0282) 
 
 
 | หน้า Dashboard          |
+
+
 ![image](https://github.com/user-attachments/assets/672104af-58bc-4654-ae0c-31dd196599fb) 
 
 
 | หน้าบันทึกข้อมูล         |
-| ![image](https://github.com/user-attachments/assets/3d23fc34-597a-4db6-aed7-df5564dea94e) 
+
+
+ ![image](https://github.com/user-attachments/assets/3d23fc34-597a-4db6-aed7-df5564dea94e) 
 
 
 | หน้า Dashboard           |
-| ![image](https://github.com/user-attachments/assets/06c7bca1-210a-4bb8-87e1-f3a1d7647bfc) 
+
+
+ ![image](https://github.com/user-attachments/assets/06c7bca1-210a-4bb8-87e1-f3a1d7647bfc) 
+
 
 ## เทคโนโลยีที่ใช้
 
@@ -69,12 +78,7 @@
 - **Syncfusion Flutter Charts**: สำหรับการสร้างกราฟวงกลมในหน้า Dashboard
 
 
-
-## การสนับสนุน
-
-หากมีปัญหาหรือข้อสงสัยเกี่ยวกับการติดตั้งหรือการใช้งานแอป สามารถเปิด Issue ใน [GitHub Repository](https://github.com/username/expense-tracker-app/issues)
-
 ## ผู้เขียน
 
-- [Your Name](https://github.com/username) - Flutter Developer
+- [นายวิญญู พรมภิภักดิ์ 643450084-0 ](https://github.com/Winyu64) - Flutter Developer
 ```
